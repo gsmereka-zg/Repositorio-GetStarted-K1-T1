@@ -7,7 +7,7 @@ No versionamento de código, por exemplo, os primeiros comandos (`git init`, `gi
 Sem essa base, não adianta querer pular para algo avançado, porque vai faltar estrutura.  
 
 Os primeiros momentos não são sobre perfeição, mas sobre **dar o passo inicial**.  
-Ao dar os primeiros passos, você se investe, se motiva a continuar até entrar num estodo de fluxo continuo.  
+Ao dar os primeiros passos, você se investe, se motiva a continuar até entrar num estado de fluxo continuo.  
 Depois vem a melhoria, a repetição e o refinamento.  
 
 No fim das contas, a importância dos primeiros é essa: **abrir o caminho**.  
